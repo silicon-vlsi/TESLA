@@ -6,4 +6,4 @@ Project Tesla is a DC-to-DC conversion project designed and developed in 0.18um 
 The Serial Peripheral Interface (SPI) is a synchronous serial communication interface specification used for short-distance communication, primarily in embedded systems.
 ## R-2R Ladder Digital-to-Analog converter (DAC)
 
-## Ring voltage Controlled Oscillatir (VCO)
+## Ring Voltage Controlled Oscillator (VCO)
