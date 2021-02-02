@@ -16,7 +16,7 @@ A bandgap voltage reference is a temperature independent voltage reference circu
 ## Description
 An op-amp based bandgap reference is designed. The small size and low power consumption of the BGR make it ideal for portable and battery-powered applications. The BGR can be operated from a supply as low as 1.5V to the maximum supply voltage of 5V. This BGR provides a temperature coefficient (tempco) of less than 20 ppm/degree-centigrade for wide range of temperature sweep (–40°C to +125°C).
 
-![BGR](https://github.com/silicon-vlsi/TESLA/blob/main/Images/BGR.PNG)
+![BGR](/TESLA/blob/main/Images/BGR.PNG)
 
 # Serial Peripheral Interface (SPI)
 The Serial Peripheral Interface (SPI) is a synchronous serial communication interface specification used for short-distance communication, primarily in embedded systems.
