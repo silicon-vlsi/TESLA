@@ -14,8 +14,11 @@ A bandgap voltage reference is a temperature independent voltage reference circu
 ## Features
 ## Applications
 ## Description
-An op-amp based bandgap reference is designed. The small size and low power consumption of the BGR make it ideal for portable and battery-powered applications. The BGR can be operated from a supply as low as 1.5V to the maximum supply voltage of 5V. This BGR provides a temperature coefficient (tempco) of less than 20 ppm/degree-centigrade for wide range of temperature sweep (–40°C to +125°C).
+An op-amp based bandgap reference is designed. The small size and low power consumption of the BGR make it ideal for portable and battery-powered applications. This BGR can be operated from a supply of as low as 1.5V to the maximum supply voltage of 5V. This BGR provides a temperature coefficient (tempco) less than 20 ppm/degree-centigrade for a wide range of temperature sweep (–40°C to +125°C). Fig. 1 shows the circuit diagram of BGR. The BGR consists a core circuit, a opreational amplifier, a start-up circuit and a ztat circuit. Here the main function of the operational amplifier is to equal the voltages at two input nodes and also equals the currents through two branches. The start-up circuit makes the BGR operational during the turn-on of power. The ztat circuit is additiobally connected to the BGR to generate the very low tempco currents or currents almost independent of temperature. More detail description of above circuits is provided in their idividual sections.
 
+### Op-amp Circuit
+### Start-up Circuit
+### ZTAT Circuit
 
 # Serial Peripheral Interface (SPI)
 The Serial Peripheral Interface (SPI) is a synchronous serial communication interface specification used for short-distance communication, primarily in embedded systems.
